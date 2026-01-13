@@ -1,1 +1,0 @@
-# distributed-video-analytics-flink
